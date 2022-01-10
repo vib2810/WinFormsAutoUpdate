@@ -1,8 +1,9 @@
 # WinFormsAutoUpdate
 A repository demonstrating the usage of ClickOnce to deploy auto update features to your Windows Forms Code for FREE (hosting on raw github). Works for both .NET framework and .NET core.
 
-A good article to follow: https://www.jeeshenlee.com/2020/10/how-to-host-clickonce-installer-on.html <br>
-Video Demonstration of the procedure will be available soon!
+A good article to follow: https://www.jeeshenlee.com/2020/10/how-to-host-clickonce-installer-on.html <br><br>
+**Video Demonstration available here:**  <br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iMEGtrjMXPU/0.jpg)](https://www.youtube.com/watch?v=iMEGtrjMXPU) <br>
 
 In the clickonce installer
 Follow the following steps:
