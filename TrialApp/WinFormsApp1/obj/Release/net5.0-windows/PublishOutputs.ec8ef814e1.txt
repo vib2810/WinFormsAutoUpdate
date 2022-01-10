@@ -1,0 +1,5 @@
+F:\WinFormsAutoUpdate\published\WinFormsApp1.exe
+F:\WinFormsAutoUpdate\published\WinFormsApp1.dll
+F:\WinFormsAutoUpdate\published\WinFormsApp1.deps.json
+F:\WinFormsAutoUpdate\published\WinFormsApp1.runtimeconfig.json
+F:\WinFormsAutoUpdate\published\WinFormsApp1.pdb
